@@ -1,0 +1,1 @@
+# mail-sender-ms-arch-example-go
